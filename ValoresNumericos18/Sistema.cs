@@ -14,7 +14,7 @@ namespace ValoresNumericos18
  
             Validador.Bienvenida();
 
-            numeroUno = Validador.PedirNumeroDecimal("\n Ingrese el primero valor numérico.");
+            numeroUno = Validador.PedirNumeroDecimal("\n Ingrese un valor numérico.");
 
             Console.Clear();
             
