@@ -11,10 +11,7 @@ namespace ValoresNumericos18
         public void MenuPrincipal()
         {
             decimal numeroUno;
-            decimal numeroDos;
-
-
-
+ 
             Validador.Bienvenida();
 
             numeroUno = Validador.PedirNumeroDecimal("\n Ingrese el primero valor numérico.");
